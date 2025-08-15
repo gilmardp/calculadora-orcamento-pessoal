@@ -35,3 +35,10 @@ Meu **primeiro projeto em React**, focado em aplicar conceitos fundamentais de f
 1. Clone o repositório:  
 ```bash
 git clone https://github.com/gilmardp/calculadora-orcamento-pessoal.git
+2.Instale as dependências:
+npm install
+3.Inicie o servidor:
+npm start
+4.Abra o navegador em http://localhost:3000
+
+
